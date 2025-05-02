@@ -1,7 +1,7 @@
 # Ex.07 Restaurant Website
 ## Date:02.05.2025
 ## Developed by: Deepika S
-Reg No: 212223230039
+## Reg No: 212223230039
 
 ## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
